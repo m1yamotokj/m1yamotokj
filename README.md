@@ -1,4 +1,4 @@
-<h4 align="left">Olá, Seja bem vinda(o) ao meus perfil!<br>  Eu me chamo Yasmin, apenas deixo projetos incompletos e completos po aqui,</h4>
+<h4 align="left">Olá, Seja bem vinda(o) ao meus perfil!<br>  Eu me chamo Yasmin, apenas deixo projetos incompletos e completos por aqui.</h4>
 
 ###
 
